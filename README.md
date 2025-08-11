@@ -33,5 +33,3 @@ Como estudante de Análise e Desenvolvimento de Sistemas, sou uma desenvolvedora
 </p>
 
 
-
-
