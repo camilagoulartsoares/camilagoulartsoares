@@ -2,7 +2,9 @@
 
 ## Sobre mim 😸
 
-Como estudante de Análise e Desenvolvimento de Sistemas, sou uma desenvolvedora júnior com foco em **desenvolvimento front-end**. Tenho paixão por criar interfaces modernas, responsivas e acessíveis. Me dedico diariamente aos estudos para evoluir constantemente na área.
+Como estudante de Análise e Desenvolvimento de Sistemas, sou uma desenvolvedora júnior com foco em desenvolvimento Full Stack. Tenho interesse em criar aplicações completas, unindo interfaces modernas, responsivas e acessíveis com APIs, integrações e soluções back-end eficientes.
+
+Atualmente, venho me dedicando ao desenvolvimento com tecnologias como JavaScript, TypeScript, React, Angular, Vue, Node.js, Express, Python e Django, buscando evoluir constantemente e construir projetos cada vez mais completos, funcionais e bem estruturados.
 
 ## Me encontre: <a href="https://github.com/sponsors/camilagsoares"><img align="left" width="150" height="150" src="https://github.com/camilagsoares/camilagsoares/assets/85360804/4a1b5aa5-2522-4369-975e-6cfd30f2f885"></a>
 - Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> ✉️  
@@ -30,6 +32,10 @@ Como estudante de Análise e Desenvolvimento de Sistemas, sou uma desenvolvedora
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 
