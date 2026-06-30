@@ -1,11 +1,11 @@
+
 # Oi,seja bem vindo <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>👩🏻‍💻
 
 ## Sobre mim 😸
 
-Como estudante de Análise e Desenvolvimento de Sistemas, sou uma desenvolvedora júnior com foco em desenvolvimento Full Stack. Tenho interesse em criar aplicações completas, unindo interfaces modernas, responsivas e acessíveis com APIs, integrações e soluções back-end eficientes.
+Sou Desenvolvedora Júnior II com foco em desenvolvimento Full Stack. Tenho interesse em criar aplicações completas, unindo interfaces modernas, responsivas e acessíveis com APIs, integrações e soluções back-end eficientes.
 
-Atualmente, venho me dedicando ao desenvolvimento com tecnologias como JavaScript, TypeScript, React, Angular, Vue, Node.js, Express, Python e Django, buscando evoluir constantemente e construir projetos cada vez mais completos, funcionais e bem estruturados.
-
+Atualmente, trabalho e venho me dedicando ao desenvolvimento com tecnologias como JavaScript, TypeScript, React, Angular, Vue, Node.js, Express, Python e Django, buscando evoluir constantemente e construir projetos cada vez mais completos, funcionais e bem estruturados.
 ## Me encontre: <a href="https://github.com/sponsors/camilagsoares"><img align="left" width="150" height="150" src="https://github.com/camilagsoares/camilagsoares/assets/85360804/4a1b5aa5-2522-4369-975e-6cfd30f2f885"></a>
 - Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> ✉️  
 - Meu <a href="https://www.linkedin.com/in/camilagoulartsoares/">LinkedIn</a> 💼
