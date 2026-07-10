@@ -57,8 +57,12 @@ Atualmente atuo como Software Developer II, desenvolvendo aplicações web, inte
 
 ## Contact
 
-📧 **E-mail**  
-**camilagoulartsoares@yahoo.com**
+<p>
+  <a href="mailto:camilagoulartsoares@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-camilagoulartsoares%40yahoo.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 
-💼 **LinkedIn**  
-**https://www.linkedin.com/in/camilagoulartsoares/**
+  <a href="https://www.linkedin.com/in/camilagoulartsoares/">
+    <img src="https://img.shields.io/badge/LinkedIn-Camila_Goulart_Soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
